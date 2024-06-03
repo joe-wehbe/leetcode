@@ -19,13 +19,6 @@ class Solution {
                 }   
             }
         }
-        
-        int count = 0;
-        if(tIndex < s.length()){
-            for(int i = tIndex; i < t.length(); i++){
-                count++;
-            }
-        }
-        return count;
+        return t.length() - tIndex;
     }
 }
