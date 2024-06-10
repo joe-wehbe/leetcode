@@ -1,19 +1,17 @@
 class Solution {
-    public int mostWordsFound(String[] sentences) {
+    public  int mostWordsFound(String[] sentences) {
+        HashMap<String, Integer> map = new HashMap<String, Integer>();
         int maxCount = 0;
-        int count = 1;
-        
+
         for(int i = 0; i < sentences.length; i++){
-            count = 1;
-            for(int j = 0; j < sentences[i].length(); j++){
-                if(sentences[i].charAt(j) == ' '){
-                    count++;
-                }
-            }
-            if(count > maxCount){
-                maxCount = count;
-            }
+            map.put(sentences[i], sentences[i].split(" ").length);
         }
+        
+        for (Map.Entry<String, Integer> entry : map.entrySet()) {
+            if(entry.getValue() > maxCount){
+                maxCount = entry.getValue();
+            }
+        }        
         return maxCount;
     }
 }
