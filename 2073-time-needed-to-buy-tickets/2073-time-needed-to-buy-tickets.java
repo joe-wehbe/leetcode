@@ -1,21 +1,19 @@
 class Solution {
-    public static int timeRequiredToBuy(int[] tickets, int k) {
-        Queue<Integer> queue = new LinkedList<>();
+    public int timeRequiredToBuy(int[] tickets, int k) {
         int time = 0;
-
-        for(int i = 0; i < tickets.length; i++){
-            queue.add(i);
-        }
         
         while(tickets[k] > 0){
-            int frontIndex = queue.remove();
-            int frontNum = tickets[frontIndex];
-
-            if(frontNum > 0){
-                queue.add(frontIndex);
-                time++;
+            for(int i = 0; i < tickets.length; i++){
+                
+                if(tickets[i] > 0){
+                    tickets[i] -= 1;
+                    time++;
+                }
+                
+                if(tickets[k] == 0){
+                    return time;
+                }
             }
-            tickets[frontIndex] -= 1;
         }
         return time;
     }
