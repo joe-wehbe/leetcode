@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://leetcode.com/Joe-Wehbe/" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp"/></a>
+  <a href="https://leetcode.com/Joe-Wehbe/" target="_blank"><img align="center" width="700" src="https://github.com/user-attachments/assets/441a47aa-50d3-4919-876b-b62b9d3ed3a2"/></a>
 </p>
 
 # Statistics
