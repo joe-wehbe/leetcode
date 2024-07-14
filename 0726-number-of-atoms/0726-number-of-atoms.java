@@ -18,7 +18,6 @@ class Solution {
                     String product = multiply(sb.substring(stack.peek()+1, i), Integer.parseInt(sb.substring(i+1, endNum)));
                     sb.replace(stack.pop(), endNum, product);
                     i--;
-                    System.out.println("SB: " + sb);
                 }
             }
         }
