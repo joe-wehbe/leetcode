@@ -7,6 +7,14 @@
    <a href="https://leetcode.com/Joe-Wehbe/" target="_blank"><img width="100%" src="https://leetcard.jacoblin.cool/Joe-Wehbe?&font=ABeeZee&ext=heatmap"/></a>
 </p>
 
+# Technologies
+|Languages|Databases|
+|---------|---------|
+|[![My Skills](https://skillicons.dev/icons?i=java,typescript)](https://skillicons.dev)|<p align="center"><img align="center" src="https://skillicons.dev/icons?i=mysql"></p>|
+
+# Topics
+`Arrays` `Strings` `Sorting` `Simulation` `Two Pointers` `Stacks` `Queues` `Linked Lists` `Matrix` `Hash Tables` `Math` `Databases` `MySql` `Divide and Conquer` `Dynamic Programming` `Algorithms` `Graphs` `Data Structures` `Integers` `ArrayLists` `Hash Sets` `Hash Maps` `Trees` `Bit Manipulation` `Recursion` `Greedy` `Time Complexity` `Space Complexity`
+
 # Achievements
 |50 Days Badge 2024|100 Days Badge 2024|
 |------------------|-------------------|
