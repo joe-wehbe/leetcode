@@ -13,7 +13,7 @@
 |[![My Skills](https://skillicons.dev/icons?i=java,typescript)](https://skillicons.dev)|<p align="center"><img align="center" src="https://skillicons.dev/icons?i=mysql"></p>|
 
 # Topics
-`Arrays` `Strings` `Sorting` `Simulation` `Two Pointers` `Stacks` `Queues` `Linked Lists` `Matrix` `Hash Tables` `Math` `Databases` `MySql` `Divide and Conquer` `Dynamic Programming` `Algorithms` `Graphs` `Data Structures` `Integers` `ArrayLists` `Hash Sets` `Hash Maps` `Trees` `Bit Manipulation` `Recursion` `Greedy` `Time Complexity` `Space Complexity`
+`Arrays` `Strings` `Sorting` `Simulation` `Two Pointers` `Stacks` `Queues` `Linked Lists` `Matrix` `Hash Tables` `Math` `Databases` `MySql` `Divide and Conquer` `Dynamic Programming` `Algorithms` `Graphs` `Data Structures` `Integers` `ArrayLists` `Hash Sets` `Hash Maps` `Trees` `Bit Manipulation` `Recursion` `Greedy` `Time Complexity` `Space Complexity` `classes` `objects` `object-oriented programming`
 
 # Achievements
 |50 Days Badge 2024|100 Days Badge 2024|
