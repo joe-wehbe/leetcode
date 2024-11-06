@@ -25,9 +25,7 @@ function canSortArray(nums: number[]): boolean {
     if(currentSegment.length > 0) {
         segments.push(currentSegment);
     }
-    
-    console.log(segments);
-    
+        
     for(let i = 0; i < segments.length - 1; i++) {
         if(Math.max(...segments[i]) > Math.min(...segments[i + 1])) return false;
     }
