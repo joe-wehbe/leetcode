@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/joe-wehbe/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/joe-wehbe/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
