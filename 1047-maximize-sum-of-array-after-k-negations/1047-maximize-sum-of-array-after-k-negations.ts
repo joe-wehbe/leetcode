@@ -1,9 +1,7 @@
 function largestSumAfterKNegations(nums: number[], k: number): number {
-    nums.sort((a, b) => a - b);
-
     while (k > 0) {
-        nums[0] = -nums[0];
-        nums.sort((a, b) => a - b);
+        let minIndex = nums.indexOf(Math.min(...nums));
+        nums[minIndex] = -nums[minIndex];
         k--;
     }
     return nums.reduce((acc, curr) => acc + curr, 0);
