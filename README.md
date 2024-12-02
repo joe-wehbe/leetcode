@@ -30,8 +30,13 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joe-wehbe/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1904-second-largest-digit-in-a-string](https://github.com/joe-wehbe/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joe-wehbe/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Hash Table
+|  |
+| ------- |
+| [1904-second-largest-digit-in-a-string](https://github.com/joe-wehbe/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
