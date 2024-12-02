@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joe-wehbe/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/joe-wehbe/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -43,8 +44,10 @@
 |  |
 | ------- |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/joe-wehbe/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/joe-wehbe/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/joe-wehbe/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/joe-wehbe/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
