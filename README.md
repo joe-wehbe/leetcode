@@ -19,35 +19,3 @@
 |50 Days Badge 2024|100 Days Badge 2024|
 |------------------|-------------------|
 |<img width="200" src="https://github.com/joe-wehbe/leetcode/assets/102875229/c3b2ec6e-48d5-4adb-9a23-cdb527d6a66e" />|<img width="200" src="https://github.com/user-attachments/assets/436dabd8-7de6-4aee-a172-b3f012928d9b" />|
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joe-wehbe/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/joe-wehbe/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
-## String
-|  |
-| ------- |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joe-wehbe/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
-| [1904-second-largest-digit-in-a-string](https://github.com/joe-wehbe/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
-## String Matching
-|  |
-| ------- |
-| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/joe-wehbe/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
-## Hash Table
-|  |
-| ------- |
-| [1904-second-largest-digit-in-a-string](https://github.com/joe-wehbe/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
-## Array
-|  |
-| ------- |
-| [1027-sum-of-even-numbers-after-queries](https://github.com/joe-wehbe/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/joe-wehbe/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
-## Simulation
-|  |
-| ------- |
-| [1027-sum-of-even-numbers-after-queries](https://github.com/joe-wehbe/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
-| [2271-rearrange-array-elements-by-sign](https://github.com/joe-wehbe/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
-<!---LeetCode Topics End-->
