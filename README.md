@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [1904-second-largest-digit-in-a-string](https://github.com/joe-wehbe/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+## Array
+|  |
+| ------- |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/joe-wehbe/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+## Simulation
+|  |
+| ------- |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/joe-wehbe/leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 <!---LeetCode Topics End-->
