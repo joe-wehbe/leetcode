@@ -10,7 +10,7 @@
 # Technologies
 |Languages|Databases|
 |---------|---------|
-|[![My Skills](https://skillicons.dev/icons?i=java,typescript)](https://skillicons.dev)|<p align="center"><img align="center" src="https://skillicons.dev/icons?i=mysql"></p>|
+|[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript)](https://skillicons.dev)|<p align="center"><img align="center" src="https://skillicons.dev/icons?i=mysql"></p>|
 
 # Topics
 `Arrays` `Strings` `Sorting` `Simulation` `Two Pointers` `Stacks` `Queues` `Linked Lists` `Matrix` `Hash Tables` `Math` `Databases` `MySql` `Divide and Conquer` `Dynamic Programming` `Algorithms` `Graphs` `Data Structures` `Integers` `ArrayLists` `Hash Sets` `Hash Maps` `Trees` `Bit Manipulation` `Recursion` `Greedy` `Time Complexity` `Space Complexity` `classes` `objects` `object-oriented programming`
@@ -19,15 +19,3 @@
 |50 Days Badge 2024|100 Days Badge 2024|
 |------------------|-------------------|
 |<img width="200" src="https://github.com/joe-wehbe/leetcode/assets/102875229/c3b2ec6e-48d5-4adb-9a23-cdb527d6a66e" />|<img width="200" src="https://github.com/user-attachments/assets/436dabd8-7de6-4aee-a172-b3f012928d9b" />|
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/joe-wehbe/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
-## String
-|  |
-| ------- |
-| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/joe-wehbe/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
-<!---LeetCode Topics End-->
