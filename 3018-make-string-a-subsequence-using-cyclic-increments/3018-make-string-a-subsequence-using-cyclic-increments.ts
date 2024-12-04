@@ -2,7 +2,7 @@ function canMakeSubsequence(str1: string, str2: string): boolean {
     let i = 0;
     let j = 0;
 
-    while (i < str1.length && j < str1.length) {
+    while (i < str1.length && j < str2.length) {
         str1[i] == str2[j] || increment(str1[i]) == str2[j] ? (i++, j++) : i++;
     }
 
