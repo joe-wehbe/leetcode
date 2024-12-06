@@ -57,4 +57,12 @@
 |  |
 | ------- |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/joe-wehbe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/joe-wehbe/leetcode/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/joe-wehbe/leetcode/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
