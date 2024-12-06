@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/joe-wehbe/leetcode/tree/master/0204-count-primes) |
 | [2502-sort-the-people](https://github.com/joe-wehbe/leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -38,4 +39,16 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/joe-wehbe/leetcode/tree/master/2502-sort-the-people) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/joe-wehbe/leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/joe-wehbe/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/joe-wehbe/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
