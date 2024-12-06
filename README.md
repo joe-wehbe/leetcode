@@ -19,27 +19,3 @@
 |50 Days Badge 2024|100 Days Badge 2024|
 |------------------|-------------------|
 |<img width="200" src="https://github.com/joe-wehbe/leetcode/assets/102875229/c3b2ec6e-48d5-4adb-9a23-cdb527d6a66e" />|<img width="200" src="https://github.com/user-attachments/assets/436dabd8-7de6-4aee-a172-b3f012928d9b" />|
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joe-wehbe/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
-## Hash Table
-|  |
-| ------- |
-| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joe-wehbe/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
-## Binary Search
-|  |
-| ------- |
-| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joe-wehbe/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
-## Greedy
-|  |
-| ------- |
-| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joe-wehbe/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
-## Sorting
-|  |
-| ------- |
-| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/joe-wehbe/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
-<!---LeetCode Topics End-->
