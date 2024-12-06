@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/joe-wehbe/leetcode/tree/master/0204-count-primes) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/joe-wehbe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/joe-wehbe/leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/joe-wehbe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/joe-wehbe/leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/joe-wehbe/leetcode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/joe-wehbe/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
