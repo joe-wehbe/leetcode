@@ -19,3 +19,15 @@
 |50 Days Badge 2024|100 Days Badge 2024|
 |------------------|-------------------|
 |<img width="200" src="https://github.com/joe-wehbe/leetcode/assets/102875229/c3b2ec6e-48d5-4adb-9a23-cdb527d6a66e" />|<img width="200" src="https://github.com/user-attachments/assets/436dabd8-7de6-4aee-a172-b3f012928d9b" />|
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/joe-wehbe/leetcode/tree/master/0890-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/joe-wehbe/leetcode/tree/master/0890-lemonade-change) |
+<!---LeetCode Topics End-->
