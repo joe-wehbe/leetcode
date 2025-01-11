@@ -1,37 +1,29 @@
 class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2) {
-        Map<Character, Integer> requirements = new HashMap<>();
+        int[] maxRequirements = new int[26];
 
         for (String word : words2) {
-            Map<Character, Integer> temp = new HashMap<>();
-
-            for (int i = 0; i < word.length(); i++) {
-                temp.put(word.charAt(i), temp.getOrDefault(word.charAt(i), 0) + 1);
+            int[] temp = new int[26];
+            for (char c : word.toCharArray()) {
+                temp[c - 'a']++;
             }
-
-            for (Map.Entry<Character, Integer> entry : temp.entrySet()) {
-                char key = entry.getKey();
-                int value = entry.getValue();  
-                requirements.put(key, Math.max(requirements.getOrDefault(key, 0), value));
+            for (int i = 0; i < 26; i++) {
+                maxRequirements[i] = Math.max(maxRequirements[i], temp[i]);
             }
         }
 
         List<String> universal = new ArrayList<>();
-
         for (String word : words1) {
-            Map<Character, Integer> frequency = new HashMap<>();
-            boolean isUniversal = true;
-    
-            for (int i = 0; i < word.length(); i++) {
-                frequency.put(word.charAt(i), frequency.getOrDefault(word.charAt(i), 0) + 1);
+            int[] freq = new int[26];
+            for (char c : word.toCharArray()) {
+                freq[c - 'a']++;
             }
 
-            for (Map.Entry<Character, Integer> entry : requirements.entrySet()) {
-                char key = entry.getKey();
-                int value = entry.getValue();
-
-                if (frequency.getOrDefault(key, 0) < value) {
+            boolean isUniversal = true;
+            for (int i = 0; i < 26; i++) {
+                if (freq[i] < maxRequirements[i]) {
                     isUniversal = false;
+                    break;
                 }
             }
 
