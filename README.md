@@ -35,6 +35,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/joe-wehbe/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [2470-removing-stars-from-a-string](https://github.com/joe-wehbe/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/joe-wehbe/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/joe-wehbe/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/joe-wehbe/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
