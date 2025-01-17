@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/joe-wehbe/leetcode/tree/master/0506-relative-ranks) |
 | [0824-number-of-lines-to-write-string](https://github.com/joe-wehbe/leetcode/tree/master/0824-number-of-lines-to-write-string) |
 ## String
 |  |
@@ -60,4 +61,12 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/joe-wehbe/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joe-wehbe/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/joe-wehbe/leetcode/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/joe-wehbe/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
