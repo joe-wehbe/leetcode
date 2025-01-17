@@ -30,4 +30,13 @@
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/joe-wehbe/leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [2470-removing-stars-from-a-string](https://github.com/joe-wehbe/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/joe-wehbe/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/joe-wehbe/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
