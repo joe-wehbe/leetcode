@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0824-number-of-lines-to-write-string](https://github.com/joe-wehbe/leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/joe-wehbe/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2470-removing-stars-from-a-string](https://github.com/joe-wehbe/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/joe-wehbe/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/joe-wehbe/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Counting
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/joe-wehbe/leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
