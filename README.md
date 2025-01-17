@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/joe-wehbe/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/joe-wehbe/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [2470-removing-stars-from-a-string](https://github.com/joe-wehbe/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -53,8 +54,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/joe-wehbe/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/joe-wehbe/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/joe-wehbe/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/joe-wehbe/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
