@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [1927-maximum-ascending-subarray-sum](https://github.com/joe-wehbe/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/joe-wehbe/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/joe-wehbe/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
