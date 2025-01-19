@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/joe-wehbe/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Linked List
 |  |
@@ -34,4 +35,32 @@
 |  |
 | ------- |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/joe-wehbe/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+## String
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+## Sorting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+## Counting
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
