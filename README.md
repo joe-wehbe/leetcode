@@ -26,10 +26,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0860-design-circular-queue](https://github.com/joe-wehbe/leetcode/tree/master/0860-design-circular-queue) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/joe-wehbe/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/joe-wehbe/leetcode/tree/master/0860-design-circular-queue) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/joe-wehbe/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -63,4 +65,12 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/joe-wehbe/leetcode/tree/master/0692-top-k-frequent-words) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/joe-wehbe/leetcode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/joe-wehbe/leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
