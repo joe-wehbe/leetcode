@@ -28,4 +28,28 @@
 | [0175-combine-two-tables](https://github.com/joe-wehbe/leetcode/tree/master/0175-combine-two-tables) |
 | [0584-find-customer-referee](https://github.com/joe-wehbe/leetcode/tree/master/0584-find-customer-referee) |
 | [1734-bank-account-summary-ii](https://github.com/joe-wehbe/leetcode/tree/master/1734-bank-account-summary-ii) |
+## Array
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/joe-wehbe/leetcode/tree/master/1396-count-servers-that-communicate) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/joe-wehbe/leetcode/tree/master/1396-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/joe-wehbe/leetcode/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/joe-wehbe/leetcode/tree/master/1396-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/joe-wehbe/leetcode/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/joe-wehbe/leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
