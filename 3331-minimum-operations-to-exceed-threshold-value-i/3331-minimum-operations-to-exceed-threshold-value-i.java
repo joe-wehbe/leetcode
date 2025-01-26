@@ -1,12 +1,13 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        Arrays.sort(nums);
-        int i = 0;
+        int count = 0;
 
-        while (nums[i] < k) {
-            i++;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] < k) {
+                count++;
+            }
         }
 
-        return i;
+        return count;
     }
 }
