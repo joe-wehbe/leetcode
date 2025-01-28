@@ -26,4 +26,5 @@
 |  |
 | ------- |
 | [1523-capital-gainloss](https://github.com/joe-wehbe/leetcode/tree/master/1523-capital-gainloss) |
+| [1625-group-sold-products-by-the-date](https://github.com/joe-wehbe/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
