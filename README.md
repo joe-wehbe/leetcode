@@ -29,4 +29,16 @@
 | [1523-capital-gainloss](https://github.com/joe-wehbe/leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/joe-wehbe/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [2110-employees-with-missing-information](https://github.com/joe-wehbe/leetcode/tree/master/2110-employees-with-missing-information) |
+## Array
+|  |
+| ------- |
+| [1547-destination-city](https://github.com/joe-wehbe/leetcode/tree/master/1547-destination-city) |
+## Hash Table
+|  |
+| ------- |
+| [1547-destination-city](https://github.com/joe-wehbe/leetcode/tree/master/1547-destination-city) |
+## String
+|  |
+| ------- |
+| [1547-destination-city](https://github.com/joe-wehbe/leetcode/tree/master/1547-destination-city) |
 <!---LeetCode Topics End-->
