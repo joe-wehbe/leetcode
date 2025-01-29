@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/joe-wehbe/leetcode/tree/master/0610-triangle-judgement) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/joe-wehbe/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1523-capital-gainloss](https://github.com/joe-wehbe/leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/joe-wehbe/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [2110-employees-with-missing-information](https://github.com/joe-wehbe/leetcode/tree/master/2110-employees-with-missing-information) |
