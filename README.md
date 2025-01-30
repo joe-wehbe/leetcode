@@ -10,7 +10,7 @@
 # Technologies
 |Languages|Databases|
 |---------|---------|
-|[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript)](https://skillicons.dev)|<p align="center"><img align="center" src="https://skillicons.dev/icons?i=mysql"></p>|
+|[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,python)](https://skillicons.dev)|<p align="center"><img align="center" src="https://skillicons.dev/icons?i=mysql"></p>|
 
 # Topics
 `Arrays` `Strings` `Sorting` `Simulation` `Two Pointers` `Stacks` `Queues` `Linked Lists` `Matrix` `Hash Tables` `Math` `Databases` `MySql` `Divide and Conquer` `Dynamic Programming` `Algorithms` `Graphs` `Data Structures` `Integers` `ArrayLists` `Hash Sets` `Hash Maps` `Trees` `Bit Manipulation` `Recursion` `Greedy` `Time Complexity` `Space Complexity` `classes` `objects` `object-oriented programming`
@@ -19,27 +19,3 @@
 |50 Days Badge 2024|100 Days Badge 2024|200 Days Badge 2024|
 |------------------|-------------------|-------------------|
 |<img width="200" src="https://github.com/joe-wehbe/leetcode/assets/102875229/c3b2ec6e-48d5-4adb-9a23-cdb527d6a66e" />|<img width="200" src="https://github.com/user-attachments/assets/436dabd8-7de6-4aee-a172-b3f012928d9b" />|<img width="200" src="https://github.com/user-attachments/assets/7f17a899-c61e-456b-a97c-520d718e67c3" />|
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0610-triangle-judgement](https://github.com/joe-wehbe/leetcode/tree/master/0610-triangle-judgement) |
-| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/joe-wehbe/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
-| [1523-capital-gainloss](https://github.com/joe-wehbe/leetcode/tree/master/1523-capital-gainloss) |
-| [1625-group-sold-products-by-the-date](https://github.com/joe-wehbe/leetcode/tree/master/1625-group-sold-products-by-the-date) |
-| [2110-employees-with-missing-information](https://github.com/joe-wehbe/leetcode/tree/master/2110-employees-with-missing-information) |
-## Array
-|  |
-| ------- |
-| [1547-destination-city](https://github.com/joe-wehbe/leetcode/tree/master/1547-destination-city) |
-## Hash Table
-|  |
-| ------- |
-| [1547-destination-city](https://github.com/joe-wehbe/leetcode/tree/master/1547-destination-city) |
-## String
-|  |
-| ------- |
-| [1547-destination-city](https://github.com/joe-wehbe/leetcode/tree/master/1547-destination-city) |
-<!---LeetCode Topics End-->
