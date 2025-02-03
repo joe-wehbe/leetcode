@@ -1,29 +1,22 @@
 function longestMonotonicSubarray(nums: number[]): number {
-    let maxIncreasing = 1;
-    let maxDecreasing = 1;
-    let increasing = 1;
-    let decreasing = 1;
+    if (nums.length === 0) return 0;
 
-    for (let i = 0; i < nums.length - 1; i++) {
-        if (nums[i] < nums[i+1]) {
+    let increasing = 1, decreasing = 1, max = 1;
+
+    for (let i = 1; i < nums.length; i++) {
+        if (nums[i] > nums[i - 1]) {
             increasing++;
-        }
-        else {
-            maxIncreasing = Math.max(increasing, maxIncreasing);
-            increasing = 1;
-        }
-
-        if (nums[i] > nums[i+1]) {
+            decreasing = 1;
+        } else if (nums[i] < nums[i - 1]) {
             decreasing++;
-        }
-        else {
-            maxDecreasing = Math.max(decreasing, maxDecreasing);
+            increasing = 1;
+        } else {
+            increasing = 1;
             decreasing = 1;
         }
+
+        max = Math.max(max, increasing, decreasing);
     }
 
-    maxIncreasing = Math.max(increasing, maxIncreasing);
-    maxDecreasing = Math.max(decreasing, maxDecreasing);
-
-    return maxIncreasing > maxDecreasing? maxIncreasing : maxDecreasing;
-};
+    return max;
+}
