@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/joe-wehbe/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3221-find-the-peaks](https://github.com/joe-wehbe/leetcode/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/joe-wehbe/leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/joe-wehbe/leetcode/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
