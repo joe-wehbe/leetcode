@@ -4,6 +4,7 @@ class Solution {
 
         for (String word : words) {
             sb.append(word);
+            if (sb.length() > s.length()) return false;
             if (sb.toString().equals(s)) return true;
         }
 
