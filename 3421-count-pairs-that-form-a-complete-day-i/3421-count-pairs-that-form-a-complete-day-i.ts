@@ -1,17 +1,11 @@
 function countCompleteDayPairs(hours: number[]): number {
-    let countMap = new Map<number, number>();
-    let result = 0;
+    let count = 0;
 
-    for (const hour of hours) {
-        let remainder = hour % 24;
-        let complement = (24 - remainder) % 24;
-
-        if (countMap.has(complement)) {
-            result += countMap.get(complement)!;
+    for (let i = 1; i < hours.length; i++) {
+        for (let j = 0; j < i; j++) {
+            if ((hours[i] + hours[j]) % 24 === 0) count++;
         }
-
-        countMap.set(remainder, (countMap.get(remainder) || 0) + 1);
     }
 
-    return result;
-}
+    return count;
+};
