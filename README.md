@@ -26,4 +26,5 @@
 |  |
 | ------- |
 | [1954-replace-all-digits-with-characters](https://github.com/joe-wehbe/leetcode/tree/master/1954-replace-all-digits-with-characters) |
+| [2235-capitalize-the-title](https://github.com/joe-wehbe/leetcode/tree/master/2235-capitalize-the-title) |
 <!---LeetCode Topics End-->
