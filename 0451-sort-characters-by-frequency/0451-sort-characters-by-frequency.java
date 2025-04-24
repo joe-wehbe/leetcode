@@ -6,21 +6,17 @@ class Solution {
             map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
         }
 
-        PriorityQueue<Map.Entry<Character, Integer>> maxHeap = new PriorityQueue<>(
-            (a, b) -> b.getValue() - a.getValue()
-        );
-        maxHeap.addAll(map.entrySet());
+        List<Character> list = new ArrayList<>(map.keySet());
+        list.sort((a, b) -> map.get(b) - map.get(a));
 
         StringBuilder sb = new StringBuilder();
 
-        while (!maxHeap.isEmpty()) {
-            Map.Entry<Character, Integer> entry = maxHeap.poll();
-            char key = entry.getKey();
-            int value = entry.getValue();
+        for (char c : list) {
+            int freq = map.get(c);
 
-            while (value > 0) {
-                sb.append(key);
-                value--;
+            while (freq > 0) {
+                sb.append(c);
+                freq--;
             }
         }
 
