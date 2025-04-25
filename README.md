@@ -34,4 +34,16 @@
 |  |
 | ------- |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/joe-wehbe/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/joe-wehbe/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/joe-wehbe/leetcode/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/joe-wehbe/leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
