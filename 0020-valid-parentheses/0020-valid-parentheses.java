@@ -7,7 +7,7 @@ class Solution {
             if (c == '(' || c == '[' || c == '{') {
                 stack.push(c);
             } else {
-                    if (!stack.isEmpty()) {
+                if (!stack.isEmpty()) {
                     Character peek = stack.peek();
                     if ((c == ')' && peek != '(') || (c == ']' && peek != '[') || (c == '}' && peek != '{')) return false;
                     else stack.pop();
