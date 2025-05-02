@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [1283-reformat-date](https://github.com/joe-wehbe/leetcode/tree/master/1283-reformat-date) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/joe-wehbe/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
