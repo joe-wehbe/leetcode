@@ -16,10 +16,10 @@ class Solution {
         for (int i = 0; i < email.length(); i++) {
             char c = email.charAt(i);
 
-            if (local == true) {
+            if (local) {
                 if (c == '+') ignore = true;
                 if (c == '@') local = ignore = false;
-                if (ignore == false && c != '.') sb.append(c);
+                if (!ignore && c != '.') sb.append(c);
             } else {
                 sb.append(c);
             }
