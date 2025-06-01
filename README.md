@@ -19,15 +19,3 @@
 |50 Days Badge 2024|100 Days Badge 2024|200 Days Badge 2024|50 Days Badge 2025|365 Total Days Badge|
 |------------------|-------------------|-------------------|------------------|--------------------|
 |<img width="200" src="https://github.com/joe-wehbe/leetcode/assets/102875229/c3b2ec6e-48d5-4adb-9a23-cdb527d6a66e" />|<img width="200" src="https://github.com/user-attachments/assets/436dabd8-7de6-4aee-a172-b3f012928d9b" />|<img width="200" src="https://github.com/user-attachments/assets/7f17a899-c61e-456b-a97c-520d718e67c3" />|<img width="200" src="https://github.com/user-attachments/assets/70201856-26dc-497d-a422-b7d7db27cdf6" />|<img width="200" src="https://github.com/user-attachments/assets/c38de748-a3ad-44e1-9d4c-af9231a898e3" />|
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1260-day-of-the-year](https://github.com/joe-wehbe/leetcode/tree/master/1260-day-of-the-year) |
-## String
-|  |
-| ------- |
-| [1260-day-of-the-year](https://github.com/joe-wehbe/leetcode/tree/master/1260-day-of-the-year) |
-<!---LeetCode Topics End-->
