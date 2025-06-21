@@ -1,6 +1,5 @@
 class Solution {
     public boolean checkIfCanBreak(String s1, String s2) {
-        int n = s1.length();
         char[] nums1 = s1.toCharArray();
         char[] nums2 = s2.toCharArray();
 
